@@ -26,5 +26,5 @@ function dec(a) {
 }
 
 function makeInt(a.toString()) {
-  
+  return a;
 }
