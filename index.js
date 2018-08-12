@@ -1,1 +1,1 @@
-a= 
+a= Math.floor
