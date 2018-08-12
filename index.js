@@ -1,1 +1,1 @@
-a= Math.floor(Math.)
+a= Math.floor(Math.random())
